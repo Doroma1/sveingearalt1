@@ -1,0 +1,23 @@
+{
+  "name": "sveingearalt1",
+  "version": "1.0.0",
+  "description": "Basic demonstration app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Doroma1/sveingearalt1.git"
+  },
+  "dependencies": {
+    "sveingearalt1": "1.0.0",
+    "sveingearalt": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Doroma1/sveingearalt1/issues"
+  },
+  "homepage": "https://github.com/Doroma1/sveingearalt1#readme"
+}
